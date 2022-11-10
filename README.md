@@ -1,9 +1,7 @@
-### Hi there 👋
+Hi, Welcome to My Page
 <p align="center">
 <img src="https://media1.giphy.com/media/dc4UxTw2ueAbm/giphy.gif" width="500" height="500" />
 </p>
-
-**xxxsnowflakexxx/xxxsnowflakexxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
