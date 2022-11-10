@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<img src="https://media1.giphy.com/media/dc4UxTw2ueAbm/giphy.gif" width="100" height="100" />
+<img src="https://media1.giphy.com/media/dc4UxTw2ueAbm/giphy.gif" width="500" height="500" />
 </p>
 
 **xxxsnowflakexxx/xxxsnowflakexxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
