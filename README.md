@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C# & c++
 - ⚡ Fun fact: My Favorite Animal!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxxsnowflakexxx)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxxsnowflakexxx&theme=horizon)](https://git.io/streak-stats)
